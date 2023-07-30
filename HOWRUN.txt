@@ -5,7 +5,7 @@ Khayr in shaa Allah.
 Start like this:
 (hope you installed it with "git clone")
 1.Open Terminal
-2.cd PC'Checker
+2.cd PC-Checker
 3.python3 DATENÜBERMEINPC.py
 
 In shaa Allah it will bring you good.
